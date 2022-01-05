@@ -1,0 +1,19 @@
+.odd-class{
+    background-color: rgb(238, 130, 148);
+    font-family: 'verdana', sans-serif;
+}
+
+.special-class{
+    font-size: 24px;
+}
+
+#first-id{
+    color: rgb(83, 83, 253);
+    font-size: 36px;
+}
+
+#second-id{
+    background-color: rgb(173, 255, 173);
+    font-size: 24px;
+    font-weight: bold;
+}
